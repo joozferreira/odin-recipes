@@ -1,0 +1,42 @@
+/* style.css */
+
+* {
+    background-color: #add8e6;
+    font-family: cursive, 'Courier New', monospace;
+}
+
+.page-title {
+    font-size: 3rem;
+    font-weight: 900;
+    text-align: center;
+}
+
+.image {
+    height: auto;
+    width: 325px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer-section {
+    font-size: 0.6rem;
+}
+
+.main-section {
+    font-size: 1rem;
+}
+
+ul.ul-main {
+    list-style-type: none;
+}
+
+.header-section,
+.main-section,
+.footer-section {
+    text-align: center;
+}
+
+#link-main-page, #link-top {
+    font-size: 0.9rem;
+}
