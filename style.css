@@ -29,6 +29,7 @@
 
 ul.ul-main {
     list-style-type: none;
+    padding-left: 0px;
 }
 
 .header-section,
